@@ -1,0 +1,186 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+header{
+    background-color: #C4C4C4;
+    padding: 32px 64px;
+}
+header li{
+    display: inline-block;
+}
+/* header p{
+    display: inline-block;
+    margin: 64px 38px;
+}
+header p a{
+    margin: 10px;
+    font-size: 18px;
+} */
+header nav a{
+    color: #000000;
+    padding: 5px 10px;
+}
+.anime{
+    background-color: #3D3D3D;
+    /* width: 100%; */
+    height: 400px;
+    overflow: hidden;
+}
+.anime img{
+    width: 100%;
+    margin-top: -160px;
+}
+.mtavari{
+    width: 1374px;
+    margin: 34px auto;
+}
+.mtavari article{
+    float: left;
+}
+.erti div{
+    width: 458px;
+    height: 200px;
+    overflow: hidden;
+}
+.erti div img{
+    width: 100%;
+    margin-top: -20px;
+}
+.erti section{
+    width: 458px;
+    height: 148px;
+    background-color: #FF9900;
+    padding: 14px 8px 12px 12px;
+}
+.a{
+    margin-top: 14px;
+    margin-bottom: 16px;
+}
+.b a{
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.5);
+}
+.ori section{
+    width: 458px;
+    height: 148px;
+    background-color: #FFC700;
+    padding: 14px 8px 12px 12px;
+}
+.ori div{
+    width: 458px;
+    height: 200px;
+    overflow: hidden;
+}
+.ori div img{
+    width: 100%;
+    margin-top: -30px;
+}
+.sami section{
+    width: 458px;
+    height: 148px;
+    background-color: #FFE600;
+    padding: 14px 8px 12px 12px;
+}
+.sami div{
+    width: 456px;
+    height: 200px;
+    overflow: hidden;
+}
+.sami div img{
+    width: 100%;
+}
+.clear p{
+    clear: both;
+    padding: 48px 302px 30px 36px;
+}
+
+/* ==========================================
+აქე დამთავრდა index.html  
+============================================
+ */
+
+.dabruneba {
+    margin-top: 14px;
+    margin-left: 46px;
+}
+.dabruneba a{
+    color: rgba(0, 0, 0, 0.5);
+}
+.didi{
+    width: 1374px;
+    height: 742px;
+    margin: 16px auto;
+    background-color: #FF9900;
+}
+.didi h2{
+    padding: 56px;
+}
+.sur{
+    width: 458px;
+    height: 200px;
+    overflow: hidden;
+    float: left;
+    margin-top: 70px;
+    margin-bottom: 36px;
+}
+.sur img{
+    width: 100%;
+}
+.didi p{
+    padding-left: 10px;
+    padding-right: 20px;
+}
+.didi2{
+    width: 1374px;
+    height: 742px;
+    margin: 16px auto;
+    background-color: #FFC700;
+}
+.didi2 h2{
+    padding: 56px;
+}
+.surat{
+    width: 458px;
+    height: 200px;
+    overflow: hidden;
+    float: left;
+    margin-top: 70px;
+    margin-bottom: 36px;
+}
+.surat img{
+    width: 100%;
+    margin-top: -24px;
+}
+.didi2 p{
+    padding-left: 10px;
+    padding-right: 20px;
+}
+.didi3{
+    width: 1374px;
+    height: 742px;
+    margin: 16px auto;
+    background-color: #FFE600;
+}
+.didi3 h2{
+    padding: 56px;
+}
+.surati{
+    width: 458px;
+    height: 200px;
+    overflow: hidden;
+    float: left;
+    margin-top: 70px;
+    margin-bottom: 36px;
+}
+.surati img{
+    width: 100%;
+    margin-top: -20px;
+}
+.didi3 p{
+    padding-left: 10px;
+    padding-right: 20px;
+}
